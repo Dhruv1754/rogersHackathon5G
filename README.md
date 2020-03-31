@@ -12,10 +12,10 @@ The application is a Real time interactive traffic intersection which colects da
 See the the short videos below as an example of 3D and 2D visual:
 
 ### 3D WebApp Visual
-![3d Intersection Demo](/3dVisual2.gif)
+![3d Intersection Demo](/images_and_vids/3dVisual2.gif)
 
 ### 2D LiDar Visual
-![ Intersection Demo](/lidar_of_intersection.gif)
+![ Intersection Demo](/images_and_vids/lidar_of_intersection.gif)
 
 
 ### Technologies
