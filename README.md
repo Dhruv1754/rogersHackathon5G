@@ -17,9 +17,9 @@ See the the short videos below as an example of 3D and 2D visual:
 ### Technologies
 ----------
 Important technologies used
-* [Django]
+* [Python Django]
 * [Docker]
 * [Kubernetes]
-* [Node_js]
+* [Angular]
 * [Pandas]
 
