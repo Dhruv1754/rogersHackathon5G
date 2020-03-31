@@ -1,8 +1,8 @@
 # Smart Traffic LiDar
 ----------
-### Authors and Purpose
-Jarvin Rivera , Dhruv Mahajan, Michael Milic
+### Authors: Jarvin Rivera , Dhruv Mahajan, Michael Milic
 
+### Purpose
 This project was made during a hackathon to help faciliate traffic congestion and traffic safty by using Lidar data and edge compute to provide least latency as possible.
 
 ### About
