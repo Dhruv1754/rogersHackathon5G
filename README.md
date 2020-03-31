@@ -19,7 +19,7 @@ See the the short videos below as an example of 3D and 2D visual:
 Important technologies used
 * [Django]
 * [Docker]
-* [Kuberneties]
+* [Kubernetes]
 * [Node_js]
 * [Pandas]
 
