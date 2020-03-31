@@ -11,6 +11,8 @@ The application is a Real time interactive traffic intersection which colects da
 
 See the the short videos below as an example of 3D and 2D visual:
 
+![3d Intersection Demo](/3dVisual.gif)
+
 
 ### Technologies
 ----------
